@@ -2,7 +2,7 @@ const Name = "Sam";
 
 const Age = 17;
 
-if(age >=18){console,log("welcome to this site");}
+if(Age>=18){console,log("welcome to this site");}
 
 else {
     console.log("you must be 18+");
