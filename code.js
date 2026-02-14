@@ -1,6 +1,6 @@
 const Name = "Sam";
 
-const Age = 17;
+let Age = 17;
 
 console.log ('Hello i am' + Name + 'And i am' + Age + 'I idk know what else to put here TwT');
 
