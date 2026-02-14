@@ -1,4 +1,4 @@
-const Name = Sam;
+const Name = "Sam";
 
 const Age = 17;
 
