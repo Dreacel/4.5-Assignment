@@ -1,5 +1,5 @@
-const numb1 = 34;
+const name = Sam;
 
-const numb2 = 12;
+const Age = 17;
 
-console.log(numb1 + numb2)
+console.log ("Hello my name is" + name + "And i am " + Age);
